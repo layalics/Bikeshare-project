@@ -1,11 +1,11 @@
 
-#US Bikeshare Data Analysis Project
+# US Bikeshare Data Analysis Project
 in this project we used python to explor the data .
 
-#File used
+# File used
 bikeshare_2.py
 
-#How it works:
+# How it works:
 The code will be developed to accommodate initial input to create an interactive experience in the device that answers questions about the dataset. There are four questions that will change the outcome:
 
 1- Did you choose the data that you want to see (Chicago, New York, Washington)? 2-Filter Data by month, day, or not at all?
